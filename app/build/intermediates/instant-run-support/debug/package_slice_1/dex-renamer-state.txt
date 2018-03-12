@@ -1,0 +1,4 @@
+#Tue Feb 06 14:57:13 IST 2018
+base.0=C\:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_1
+renamed.0=classes.dex
+file.0=C\:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_1\\classes.dex

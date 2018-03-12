@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Smart\AndroidStudioProjects\farmersreminder\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Smart\AndroidStudioProjects\farmersreminder\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_737b2ae59b838f99fc4bd27f53f21c0b036d9357\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Smart\.android\build-cache\f9fcd9f7ab26a25f477fe9e5b841d38ca7d78dc8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Smart\AndroidStudioProjects\farmersreminder\app\build\intermediates\pre-dexed\debug\classes_0146484b0e8ecf28f860c3a852e50a6d4ce349fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Smart\.android\build-cache\b6320aa0265f6fcdc3a9c0d8f6aca36a91537ce3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Smart\AndroidStudioProjects\farmersreminder\app\build\intermediates\pre-dexed\debug\classes_4a86d063f33387f71b4e44d82aeb0a887d487c38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Smart\.android\build-cache\77327c8c21c621ae0deaa84c46ce8e31bc49aee9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Smart\AndroidStudioProjects\farmersreminder\app\build\intermediates\pre-dexed\debug\classes_27f0941981eb88f26d71d48ff5d7a1bbd380f0d6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Smart\AndroidStudioProjects\farmersreminder\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="47e79bf74014af7e4d5c61fdfab4eb7d67f71687">
+        <dex dex="C:\Users\Smart\AndroidStudioProjects\farmersreminder\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_0c57d60ae48ab3909baa3f16311dc914d65f4330\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Smart\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Smart\AndroidStudioProjects\farmersreminder\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_51015d9ebc32f0034ca31ae7a8e4ba0cfd553540.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Smart\.android\build-cache\2fa953803b7ee8533a9b76b23500ac5939b09d5c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Smart\AndroidStudioProjects\farmersreminder\app\build\intermediates\pre-dexed\debug\classes_4f047267151b8615635a8e97d0806375a23c0827.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Smart\.android\build-cache\c77eab3566fdb75f4397f2e79823d72021069c82\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Smart\AndroidStudioProjects\farmersreminder\app\build\intermediates\pre-dexed\debug\classes_0e01955b0c4d34d78c9dffd9111890de3929b979.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Smart\.android\build-cache\92a037d07b2b982fdd9174650b99d8fc065c8cae\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Smart\AndroidStudioProjects\farmersreminder\app\build\intermediates\pre-dexed\debug\classes_bf5ae4ddbcb9533e3a67f56f131475ff90539e96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Smart\.android\build-cache\e3d4c4c08c039db7022a1ee31d28f4792fb0108b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Smart\AndroidStudioProjects\farmersreminder\app\build\intermediates\pre-dexed\debug\classes_f0ed2214701611fe6d339dcd7db23429984ab102.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Smart\.android\build-cache\724a270210b3c386c6ef5ef4165eacd442144eda\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Smart\AndroidStudioProjects\farmersreminder\app\build\intermediates\pre-dexed\debug\classes_11535e1d518a88604bcc46c95df0a24a2526bbda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Smart\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Smart\AndroidStudioProjects\farmersreminder\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_269fb8ceba5a1227f60d4675d05b5a336d2d4682.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Smart\.android\build-cache\45e484b726592b041c7271bb1d311da17208602d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Smart\AndroidStudioProjects\farmersreminder\app\build\intermediates\pre-dexed\debug\classes_86c0c43c6a821e95948e8f47d61ee600115f77d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Smart\.android\build-cache\4704ff6ae463d821f6aa1ea6957c352d866f8d03\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Smart\AndroidStudioProjects\farmersreminder\app\build\intermediates\pre-dexed\debug\classes_8b21618087682633df5142c287c40bbf4243c6c2.jar" />
+    </item>
+
+</items>

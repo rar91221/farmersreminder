@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Pramod Rajan\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Pramod Rajan\\AndroidStudioProjects\\farmersreminder\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Pramod Rajan\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\Pramod Rajan\\AndroidStudioProjects\\farmersreminder\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    }
+]

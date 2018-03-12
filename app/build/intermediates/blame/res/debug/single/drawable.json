@@ -1,0 +1,418 @@
+[
+    {
+        "merged": "C:\\Users\\Pramod Rajan\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Pramod Rajan\\.android\\build-cache\\28f6ca9d5d058f3d91534494970e5c2cd8fbfa06\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img2.jpg",
+        "source": "C:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\src\\main\\res\\drawable\\img2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Smart\\.android\\build-cache\\2fa953803b7ee8533a9b76b23500ac5939b09d5c\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pramod Rajan\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img14.png",
+        "source": "C:\\Users\\Pramod Rajan\\AndroidStudioProjects\\farmersreminder\\app\\src\\main\\res\\drawable\\img14.png"
+    },
+    {
+        "merged": "C:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Smart\\.android\\build-cache\\2fa953803b7ee8533a9b76b23500ac5939b09d5c\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pramod Rajan\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Pramod Rajan\\.android\\build-cache\\28f6ca9d5d058f3d91534494970e5c2cd8fbfa06\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Smart\\.android\\build-cache\\2fa953803b7ee8533a9b76b23500ac5939b09d5c\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Smart\\.android\\build-cache\\2fa953803b7ee8533a9b76b23500ac5939b09d5c\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pramod Rajan\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Pramod Rajan\\.android\\build-cache\\28f6ca9d5d058f3d91534494970e5c2cd8fbfa06\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pramod Rajan\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Pramod Rajan\\.android\\build-cache\\28f6ca9d5d058f3d91534494970e5c2cd8fbfa06\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Smart\\.android\\build-cache\\2fa953803b7ee8533a9b76b23500ac5939b09d5c\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pramod Rajan\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img5.jpeg",
+        "source": "C:\\Users\\Pramod Rajan\\AndroidStudioProjects\\farmersreminder\\app\\src\\main\\res\\drawable\\img5.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Pramod Rajan\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img2.jpg",
+        "source": "C:\\Users\\Pramod Rajan\\AndroidStudioProjects\\farmersreminder\\app\\src\\main\\res\\drawable\\img2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Smart\\.android\\build-cache\\2fa953803b7ee8533a9b76b23500ac5939b09d5c\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pramod Rajan\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Pramod Rajan\\.android\\build-cache\\28f6ca9d5d058f3d91534494970e5c2cd8fbfa06\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Smart\\.android\\build-cache\\2fa953803b7ee8533a9b76b23500ac5939b09d5c\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pramod Rajan\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img12.png",
+        "source": "C:\\Users\\Pramod Rajan\\AndroidStudioProjects\\farmersreminder\\app\\src\\main\\res\\drawable\\img12.png"
+    },
+    {
+        "merged": "C:\\Users\\Pramod Rajan\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Pramod Rajan\\.android\\build-cache\\28f6ca9d5d058f3d91534494970e5c2cd8fbfa06\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pramod Rajan\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Pramod Rajan\\.android\\build-cache\\28f6ca9d5d058f3d91534494970e5c2cd8fbfa06\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pramod Rajan\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Pramod Rajan\\.android\\build-cache\\28f6ca9d5d058f3d91534494970e5c2cd8fbfa06\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pramod Rajan\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Pramod Rajan\\.android\\build-cache\\28f6ca9d5d058f3d91534494970e5c2cd8fbfa06\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img4.jpeg",
+        "source": "C:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\src\\main\\res\\drawable\\img4.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Smart\\.android\\build-cache\\2fa953803b7ee8533a9b76b23500ac5939b09d5c\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pramod Rajan\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Pramod Rajan\\.android\\build-cache\\28f6ca9d5d058f3d91534494970e5c2cd8fbfa06\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Smart\\.android\\build-cache\\2fa953803b7ee8533a9b76b23500ac5939b09d5c\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Smart\\.android\\build-cache\\2fa953803b7ee8533a9b76b23500ac5939b09d5c\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Smart\\.android\\build-cache\\2fa953803b7ee8533a9b76b23500ac5939b09d5c\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pramod Rajan\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Pramod Rajan\\.android\\build-cache\\28f6ca9d5d058f3d91534494970e5c2cd8fbfa06\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pramod Rajan\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Pramod Rajan\\.android\\build-cache\\28f6ca9d5d058f3d91534494970e5c2cd8fbfa06\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Smart\\.android\\build-cache\\2fa953803b7ee8533a9b76b23500ac5939b09d5c\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Smart\\.android\\build-cache\\2fa953803b7ee8533a9b76b23500ac5939b09d5c\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Smart\\.android\\build-cache\\2fa953803b7ee8533a9b76b23500ac5939b09d5c\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img5.jpeg",
+        "source": "C:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\src\\main\\res\\drawable\\img5.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img12.png",
+        "source": "C:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\src\\main\\res\\drawable\\img12.png"
+    },
+    {
+        "merged": "C:\\Users\\Pramod Rajan\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Pramod Rajan\\.android\\build-cache\\28f6ca9d5d058f3d91534494970e5c2cd8fbfa06\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pramod Rajan\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Pramod Rajan\\.android\\build-cache\\28f6ca9d5d058f3d91534494970e5c2cd8fbfa06\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Smart\\.android\\build-cache\\2fa953803b7ee8533a9b76b23500ac5939b09d5c\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pramod Rajan\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Pramod Rajan\\.android\\build-cache\\28f6ca9d5d058f3d91534494970e5c2cd8fbfa06\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Smart\\.android\\build-cache\\2fa953803b7ee8533a9b76b23500ac5939b09d5c\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pramod Rajan\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Pramod Rajan\\.android\\build-cache\\28f6ca9d5d058f3d91534494970e5c2cd8fbfa06\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pramod Rajan\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Pramod Rajan\\.android\\build-cache\\28f6ca9d5d058f3d91534494970e5c2cd8fbfa06\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Smart\\.android\\build-cache\\2fa953803b7ee8533a9b76b23500ac5939b09d5c\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pramod Rajan\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Pramod Rajan\\.android\\build-cache\\28f6ca9d5d058f3d91534494970e5c2cd8fbfa06\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pramod Rajan\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Pramod Rajan\\.android\\build-cache\\28f6ca9d5d058f3d91534494970e5c2cd8fbfa06\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Smart\\.android\\build-cache\\2fa953803b7ee8533a9b76b23500ac5939b09d5c\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pramod Rajan\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img9.jpg",
+        "source": "C:\\Users\\Pramod Rajan\\AndroidStudioProjects\\farmersreminder\\app\\src\\main\\res\\drawable\\img9.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Pramod Rajan\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Pramod Rajan\\.android\\build-cache\\28f6ca9d5d058f3d91534494970e5c2cd8fbfa06\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img8.jpg",
+        "source": "C:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\src\\main\\res\\drawable\\img8.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Pramod Rajan\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Pramod Rajan\\.android\\build-cache\\28f6ca9d5d058f3d91534494970e5c2cd8fbfa06\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Smart\\.android\\build-cache\\2fa953803b7ee8533a9b76b23500ac5939b09d5c\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img3.jpeg",
+        "source": "C:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\src\\main\\res\\drawable\\img3.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Pramod Rajan\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Pramod Rajan\\.android\\build-cache\\28f6ca9d5d058f3d91534494970e5c2cd8fbfa06\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pramod Rajan\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Pramod Rajan\\.android\\build-cache\\28f6ca9d5d058f3d91534494970e5c2cd8fbfa06\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Smart\\.android\\build-cache\\2fa953803b7ee8533a9b76b23500ac5939b09d5c\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Smart\\.android\\build-cache\\2fa953803b7ee8533a9b76b23500ac5939b09d5c\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pramod Rajan\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tech_soc_icon.png",
+        "source": "C:\\Users\\Pramod Rajan\\AndroidStudioProjects\\farmersreminder\\app\\src\\main\\res\\drawable\\tech_soc_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Smart\\.android\\build-cache\\2fa953803b7ee8533a9b76b23500ac5939b09d5c\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pramod Rajan\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img8.jpg",
+        "source": "C:\\Users\\Pramod Rajan\\AndroidStudioProjects\\farmersreminder\\app\\src\\main\\res\\drawable\\img8.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Pramod Rajan\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\user.png",
+        "source": "C:\\Users\\Pramod Rajan\\AndroidStudioProjects\\farmersreminder\\app\\src\\main\\res\\drawable\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Smart\\.android\\build-cache\\2fa953803b7ee8533a9b76b23500ac5939b09d5c\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg2.png",
+        "source": "C:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\src\\main\\res\\drawable\\bg2.png"
+    },
+    {
+        "merged": "C:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Smart\\.android\\build-cache\\2fa953803b7ee8533a9b76b23500ac5939b09d5c\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pramod Rajan\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Pramod Rajan\\.android\\build-cache\\28f6ca9d5d058f3d91534494970e5c2cd8fbfa06\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Smart\\.android\\build-cache\\2fa953803b7ee8533a9b76b23500ac5939b09d5c\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pramod Rajan\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Pramod Rajan\\.android\\build-cache\\28f6ca9d5d058f3d91534494970e5c2cd8fbfa06\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg3.jpg",
+        "source": "C:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\src\\main\\res\\drawable\\bg3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Smart\\.android\\build-cache\\2fa953803b7ee8533a9b76b23500ac5939b09d5c\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pramod Rajan\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img7.jpg",
+        "source": "C:\\Users\\Pramod Rajan\\AndroidStudioProjects\\farmersreminder\\app\\src\\main\\res\\drawable\\img7.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Pramod Rajan\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Pramod Rajan\\.android\\build-cache\\28f6ca9d5d058f3d91534494970e5c2cd8fbfa06\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img7.jpg",
+        "source": "C:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\src\\main\\res\\drawable\\img7.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\user.png",
+        "source": "C:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\src\\main\\res\\drawable\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Smart\\.android\\build-cache\\2fa953803b7ee8533a9b76b23500ac5939b09d5c\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pramod Rajan\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg3.jpg",
+        "source": "C:\\Users\\Pramod Rajan\\AndroidStudioProjects\\farmersreminder\\app\\src\\main\\res\\drawable\\bg3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Pramod Rajan\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img6.jpg",
+        "source": "C:\\Users\\Pramod Rajan\\AndroidStudioProjects\\farmersreminder\\app\\src\\main\\res\\drawable\\img6.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img10.jpg",
+        "source": "C:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\src\\main\\res\\drawable\\img10.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Pramod Rajan\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Pramod Rajan\\.android\\build-cache\\28f6ca9d5d058f3d91534494970e5c2cd8fbfa06\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pramod Rajan\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img11.png",
+        "source": "C:\\Users\\Pramod Rajan\\AndroidStudioProjects\\farmersreminder\\app\\src\\main\\res\\drawable\\img11.png"
+    },
+    {
+        "merged": "C:\\Users\\Pramod Rajan\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Pramod Rajan\\.android\\build-cache\\28f6ca9d5d058f3d91534494970e5c2cd8fbfa06\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pramod Rajan\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Pramod Rajan\\.android\\build-cache\\28f6ca9d5d058f3d91534494970e5c2cd8fbfa06\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pramod Rajan\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img4.jpeg",
+        "source": "C:\\Users\\Pramod Rajan\\AndroidStudioProjects\\farmersreminder\\app\\src\\main\\res\\drawable\\img4.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Pramod Rajan\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg2.png",
+        "source": "C:\\Users\\Pramod Rajan\\AndroidStudioProjects\\farmersreminder\\app\\src\\main\\res\\drawable\\bg2.png"
+    },
+    {
+        "merged": "C:\\Users\\Pramod Rajan\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Pramod Rajan\\.android\\build-cache\\28f6ca9d5d058f3d91534494970e5c2cd8fbfa06\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Smart\\.android\\build-cache\\2fa953803b7ee8533a9b76b23500ac5939b09d5c\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Smart\\.android\\build-cache\\2fa953803b7ee8533a9b76b23500ac5939b09d5c\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Smart\\.android\\build-cache\\2fa953803b7ee8533a9b76b23500ac5939b09d5c\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tech_soc_icon.png",
+        "source": "C:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\src\\main\\res\\drawable\\tech_soc_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Pramod Rajan\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Pramod Rajan\\.android\\build-cache\\28f6ca9d5d058f3d91534494970e5c2cd8fbfa06\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pramod Rajan\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Pramod Rajan\\.android\\build-cache\\28f6ca9d5d058f3d91534494970e5c2cd8fbfa06\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img11.png",
+        "source": "C:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\src\\main\\res\\drawable\\img11.png"
+    },
+    {
+        "merged": "C:\\Users\\Pramod Rajan\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img3.jpeg",
+        "source": "C:\\Users\\Pramod Rajan\\AndroidStudioProjects\\farmersreminder\\app\\src\\main\\res\\drawable\\img3.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Pramod Rajan\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Pramod Rajan\\.android\\build-cache\\28f6ca9d5d058f3d91534494970e5c2cd8fbfa06\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pramod Rajan\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img10.jpg",
+        "source": "C:\\Users\\Pramod Rajan\\AndroidStudioProjects\\farmersreminder\\app\\src\\main\\res\\drawable\\img10.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img6.jpg",
+        "source": "C:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\src\\main\\res\\drawable\\img6.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Smart\\.android\\build-cache\\2fa953803b7ee8533a9b76b23500ac5939b09d5c\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img9.jpg",
+        "source": "C:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\src\\main\\res\\drawable\\img9.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Pramod Rajan\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Pramod Rajan\\.android\\build-cache\\28f6ca9d5d058f3d91534494970e5c2cd8fbfa06\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Smart\\.android\\build-cache\\2fa953803b7ee8533a9b76b23500ac5939b09d5c\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Smart\\.android\\build-cache\\2fa953803b7ee8533a9b76b23500ac5939b09d5c\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Smart\\.android\\build-cache\\2fa953803b7ee8533a9b76b23500ac5939b09d5c\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pramod Rajan\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Pramod Rajan\\.android\\build-cache\\28f6ca9d5d058f3d91534494970e5c2cd8fbfa06\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Smart\\.android\\build-cache\\2fa953803b7ee8533a9b76b23500ac5939b09d5c\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pramod Rajan\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Pramod Rajan\\.android\\build-cache\\28f6ca9d5d058f3d91534494970e5c2cd8fbfa06\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Smart\\.android\\build-cache\\2fa953803b7ee8533a9b76b23500ac5939b09d5c\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img14.png",
+        "source": "C:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\src\\main\\res\\drawable\\img14.png"
+    }
+]

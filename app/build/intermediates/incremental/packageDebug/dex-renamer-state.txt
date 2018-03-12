@@ -1,0 +1,7 @@
+#Thu Mar 08 19:44:18 IST 2018
+base.0=C\:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_737b2ae59b838f99fc4bd27f53f21c0b036d9357
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_0c57d60ae48ab3909baa3f16311dc914d65f4330\\classes.dex
+base.1=C\:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_0c57d60ae48ab3909baa3f16311dc914d65f4330
+file.0=C\:\\Users\\Smart\\AndroidStudioProjects\\farmersreminder\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_737b2ae59b838f99fc4bd27f53f21c0b036d9357\\classes.dex
